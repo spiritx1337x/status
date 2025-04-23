@@ -1,3 +1,4 @@
 {
-  "enabled": true
+  "enabled": true,
+  "build": "v1.0.0"
 }
